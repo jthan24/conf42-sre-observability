@@ -91,21 +91,21 @@ http://localhost:5001/
 
 
 ## References
-https://docs.docker.com/config/daemon/prometheus/
-https://prometheus.io/docs/prometheus/latest/installation/
-https://github.com/dockersamples/example-voting-app
-https://grafana.com/docs/grafana/latest/setup-grafana/installation/docker/
-https://hub.docker.com/r/grafana/grafana-oss
-https://medium.com/@nagavenkateshgowru/monitoring-docker-containers-d26bd0a791b4
-https://github.com/google/cadvisor
+- https://docs.docker.com/config/daemon/prometheus/
+- https://prometheus.io/docs/prometheus/latest/installation/
+- https://github.com/dockersamples/example-voting-app
+- https://grafana.com/docs/grafana/latest/setup-grafana/installation/docker/
+- https://hub.docker.com/r/grafana/grafana-oss
+- https://medium.com/@nagavenkateshgowru/monitoring-docker-containers-d26bd0a791b4
+- https://github.com/google/cadvisor
 
 
-https://grafana.com/grafana/dashboards/179-docker-prometheus-monitoring/
-https://grafana.com/grafana/dashboards/16310-docker-and-system-monitoring/
+- https://grafana.com/grafana/dashboards/179-docker-prometheus-monitoring/
+- https://grafana.com/grafana/dashboards/16310-docker-and-system-monitoring/
 
 
-https://grafana.com/grafana/dashboards/3662-prometheus-2-0-overview/
-https://grafana.com/grafana/dashboards/2-prometheus-stats/
-https://grafana.com/grafana/dashboards/15489-prometheus-2-0-stats/
+- https://grafana.com/grafana/dashboards/3662-prometheus-2-0-overview/
+- https://grafana.com/grafana/dashboards/2-prometheus-stats/
+- https://grafana.com/grafana/dashboards/15489-prometheus-2-0-stats/
 
-https://grafana.com/grafana/dashboards/3590-grafana-internals/
+- https://grafana.com/grafana/dashboards/3590-grafana-internals/
